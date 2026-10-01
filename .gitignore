@@ -1,0 +1,16 @@
+/build/
+/dist/
+/roms/
+/ROMS/
+/tools/ow/
+/tools/mingw-lite/
+/tools/downloads/
+__pycache__/
+*.pyc
+*.obj
+*.map
+*.rom
+*.log
+*.LOG
+*.wav
+*.WAV

@@ -1,0 +1,3 @@
+// Orange LCD 55, drawn at 16px and used consistently at every size.
+1 ICON "vsc55.ico"
+1 24 "asInvoker.manifest"

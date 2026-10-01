@@ -1,0 +1,16 @@
+# AStyle 3.1; project-owned C/C++ only. Do not format upstream/.
+style=allman
+indent=spaces=4
+indent-switches
+pad-oper
+pad-comma
+pad-header
+unpad-paren
+align-pointer=name
+align-reference=name
+break-one-line-headers
+break-blocks
+max-code-length=120
+break-after-logical
+lineend=windows
+suffix=none

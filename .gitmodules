@@ -1,0 +1,3 @@
+[submodule "upstream/Nuked-SC55"]
+	path = upstream/Nuked-SC55
+	url = https://github.com/jcmoyer/Nuked-SC55.git

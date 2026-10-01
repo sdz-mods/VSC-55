@@ -1,0 +1,9 @@
+* text=auto
+*.bat text eol=crlf
+*.BAT text eol=crlf
+*.ico binary
+*.png binary
+*.bmp binary
+*.BMP binary
+LICENSES/** -text -whitespace
+LICENSE -text -whitespace
